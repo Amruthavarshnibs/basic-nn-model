@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Ronick Aakshath P
-### Register Number: 212222240084
+### Name: Amrutha varshni
+### Register Number: 212222040007
 ```python
 from google.colab import auth
 import gspread
